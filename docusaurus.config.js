@@ -10,13 +10,13 @@ const tailwindPlugin = require('./plugins/tailwind-plugin.cjs');
 const config = {
   title: 'Learning AI',
   tagline: '免费的 Learning AI 教程',
-  url: 'https://learningpromt.wiki',
+  url: 'https://imzdong.github.io/learning',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'imzdong',
-  projectName: 'Learning-AI.github.io',
+  projectName: 'learning.github.io',
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
 
